@@ -1,6 +1,8 @@
 package ua.chnu.edu.kkn.patterns.revisited.sealed;
 
-//final class  BrokenLight implements TrafficLight {}
+import ua.chnu.edu.kkn.patterns.revisited.sealed.permits.TrafficLight2;
+
+//final class  BrokenLight implements TrafficLight2 {}
 
 public class Main {
 
